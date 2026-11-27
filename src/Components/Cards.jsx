@@ -25,7 +25,7 @@ const Cards = ({ coins }) => {
       <div className="card text-center border-secondary text-secondary mb-3" style={{ width: "12rem" }}>
         <div className="card-body">
           <h5 className="card-title">All-Time High</h5>
-          <p className="card-text">${market_data?market_data.total_volume?.usd  : " "}</p>
+          <p className="card-text">${market_data ? market_data.ath?.usd : " "}</p>
         </div>
       </div>
       <div className="card text-center mb-3 border-info text-info" style={{ width: "12rem" }}>
