@@ -10,8 +10,8 @@
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4",
-    "apexcharts": "^8.9.1",
-    "react-apexcharts": "^2.2.1"
+    "apexcharts": "^3.48.0",
+    "react-apexcharts": "^1.4.1"
   },
   "scripts": {
     "start": "react-scripts start",
